@@ -1,0 +1,45 @@
+# NamedFeature types
+
+- Wegen
+  - straat
+  - weg
+  - spoor
+- Nederzetting (bebouwd gebied)
+  - buurtschap = gat
+  - gehucht
+  - dorp
+  - vlek
+  - grote plaats
+  - buurt
+  - stad
+  - wijk *
+  - gemeente *
+  - agglomeratie
+- Landschap
+  - polder
+  - park
+  - natuurgebied
+- Waterweg
+  - stroom
+  - rivier
+  - beek
+  - meer
+  - kanaal
+  - vaart
+- Deelgebieden (bestuurlijke eenheid)
+  - vrijheid
+  - provincie
+  - gewest
+  - graafschap
+  - rijksgraafschap
+  - heerlijkheid
+  - rijksheerlijkheid
+  - departement
+  - hertogdom
+  - land (van)
+  - tweeherigheid
+  - bisdom
+  - prinsbisdom
+  - vorstendom
+  - abdijvorstendom
+  - land

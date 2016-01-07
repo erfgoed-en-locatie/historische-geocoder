@@ -1,0 +1,13 @@
+"cbs_regiocode","naam","afkorting","tgn","geonames","gemeentegeschiedenis","bag"
+"27","Noord-Holland","NH","http://vocab.getty.edu/tgn/7006951","http://www.geonames.org/2749879","http://www.gemeentegeschiedenis.nl/provincie/Noord-Holland",
+"28","Zuid-Holland","ZH","http://vocab.getty.edu/tgn/7003632","http://www.geonames.org/2743698","http://www.gemeentegeschiedenis.nl/provincie/Zuid-Holland",
+"21","Friesland","Fr","http://vocab.getty.edu/tgn/7003616","http://www.geonames.org/2755812","http://www.gemeentegeschiedenis.nl/provincie/Friesland",
+"20","Groningen","Gr","http://vocab.getty.edu/tgn/7003613","http://www.geonames.org/2755249","http://www.gemeentegeschiedenis.nl/provincie/Groningen",
+"22","Drenthe","Dr","http://vocab.getty.edu/tgn/7003614","http://www.geonames.org/2756631","http://www.gemeentegeschiedenis.nl/provincie/Drenthe",
+"23","Overijssel","Ov","http://vocab.getty.edu/tgn/7003626","http://www.geonames.org/2748838","http://www.gemeentegeschiedenis.nl/provincie/Overijssel",
+"25","Gelderland","Ge","http://vocab.getty.edu/tgn/7003619","http://www.geonames.org/2755634","http://www.gemeentegeschiedenis.nl/provincie/Gelderland",
+"24","Flevoland","Fl","http://vocab.getty.edu/tgn/7003615","http://www.geonames.org/3319179","http://www.gemeentegeschiedenis.nl/provincie/Flevoland",
+"26","Utrecht","Ut","http://vocab.getty.edu/tgn/7003627","http://www.geonames.org/2745909","http://www.gemeentegeschiedenis.nl/provincie/Utrecht",
+"30","Noord-Brabant","NB","http://vocab.getty.edu/tgn/7003624","http://www.geonames.org/2749990","http://www.gemeentegeschiedenis.nl/provincie/Noord-Brabant",
+"29","Zeeland","Ze","http://vocab.getty.edu/tgn/7003635","http://www.geonames.org/2744011","http://www.gemeentegeschiedenis.nl/provincie/Zeeland",
+"31","Limburg","Li","http://vocab.getty.edu/tgn/7003622","http://www.geonames.org/2751596","http://www.gemeentegeschiedenis.nl/provincie/Limburg",

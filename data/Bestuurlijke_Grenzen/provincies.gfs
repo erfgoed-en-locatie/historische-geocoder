@@ -1,0 +1,27 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>provincies</Name>
+    <ElementPath>provincies</ElementPath>
+    <GeometryType>6</GeometryType>
+    <SRSName>EPSG:4326</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>12</FeatureCount>
+      <ExtentXMin>3.30794</ExtentXMin>
+      <ExtentXMax>7.22750</ExtentXMax>
+      <ExtentYMin>50.75037</ExtentYMin>
+      <ExtentYMax>53.57642</ExtentYMax>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>gml_id</Name>
+      <ElementPath>gml_id</ElementPath>
+      <Type>String</Type>
+      <Width>38</Width>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>Provincien</Name>
+      <ElementPath>Provincien</ElementPath>
+      <Type>String</Type>
+      <Width>13</Width>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>

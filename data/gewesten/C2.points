@@ -1,0 +1,27 @@
+# Ground control points file for C1.dxf for Grass GIS v.transform.pointsfile script in QGIS
+# See also http://grass.osgeo.org/grass63/manuals/v.transform.html
+# Places are remapped from pdf extracted coordinates (first pair of numbers) to geonames coordinates (second pair)
+
+#Maastricht
+0.13658 0.02437 5.689 50.848
+
+# Emden
+0.212784 0.240525 7.2063 53.3641  
+
+#Leeuwarden
+0.140779 0.223949 5.7961 53.2014
+
+# Alkmaar
+0.086875 0.175448 4.7494 52.6309
+
+# Kortrijk
+0.008907 0.028238 3.2699 50.8272
+
+#Middelburg
+0.027525 0.081663 3.61389 51.5
+
+#Brugge
+0.006554 0.058844 3.22424 51.20892
+
+# Roermond
+0.151530 0.052528 5.9875 51.19417

@@ -1,0 +1,90 @@
+﻿ToDo EL Ontologie
+
+
+Base uri: http://histograph.io/hg) 
+
+
+Voorlopig buiten scope
+* Zekerheid
+* CHO-specialisaties
+
+
+Analyse van de mogelijke relaties tussen PiT’s
+Het doel is bepalen of  PiT’s binnen een bron of uit verschillende bronnen een bepaalde, onderlinge relatie hebben. (Waarbij de owl:sameAs relatie mogelijk de meest waardevolle is.)
+Inserted data
+De bronhouder moet zoveel mogelijk relaties tussen PiT relationeel aangeven. Binnen de eigen bron en bijvoorkeur ook met ander bronnen. Dit zijn relaties op instance niveau. 
+Welke relaties kan een bronhouder daarvoor gebruiken?
+1. owl:sameAs
+2. el:withIn   -    el:contains (geografisch relatie vastleggen met behulp van een property)
+3. el:absorbed -  el:absorbedBy  (bestuurlijk relaties)
+(2 en 3 Domein&Range zijn Pit’s)
+Inferencing / reasoning
+Soorten relaties in volgorde van sterk naar zwak:
+1. Relationeel (sameAs) (met een bepaalde zekerheidsindicatie?)
+2. Synoniemen (Eindhoven en Lampegat), verschillende schrijfwijze (Eynthoven),...)
+3. Niet gelijkwaardige relationele broader/narrower (vb wijk in gemeente)
+4. Geometrisch (gedeeltelijke ruimtelijke overlap) 
+5. Semantisch (Monster (1951-) <> aan Monster (-1536) omdat inferencing zegt dat Monster (1951-) nog bestaat en Monster (-1536) niet meer. vb? (disjoint))
+6. Temporeel (alleen t.b.v. zekerheidsindicatie)
+
+
+Stringmatch
+1. gelijke pits: Sloten (NH) = Sloten (NH)
+2. ongelijke pits: Sloten (NH) <> Sloten (Fr)
+3. oneigenlijke ongelijke pits: Sloten (NH) <> Slooten (NH) via stringmatch, maar wel gelijk door bijv. B. 
+     => bepalen ahv andere relaties
+
+
+
+
+Met welke reasoning of rules kun je die de relaties opwaarderen van zwak naar sterk, met het aangeven van de zekerheid?
+
+
+
+
+	a
+	b
+	c
+	d
+	a
+	als a=b=c
+dan a=c
+	
+
+	
+
+	
+
+	b
+	
+
+	
+
+	
+
+	
+
+	c
+	
+
+	
+
+	
+
+	
+
+	d
+	
+
+	
+
+	
+
+	
+
+	 
+
+
+http://histograph.io/
+http://en.wikipedia.org/wiki/GeoSPARQL
+http://locatienaaruri.erfgeo.nl/

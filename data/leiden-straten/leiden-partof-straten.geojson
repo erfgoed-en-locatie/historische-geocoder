@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "naam": "Bocht van Guinee" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4.4881256381536, 52.157981819287002 ], [ 4.488281785525, 52.157987806429176 ], [ 4.488408655264263, 52.157963857855592 ], [ 4.488525765792813, 52.157880037746558 ] ] ] } },
+{ "type": "Feature", "properties": { "naam": "Bomerstraat" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4.49635968657006, 52.154515015382806 ], [ 4.497966889456898, 52.154527140701404 ] ] ] } },
+{ "type": "Feature", "properties": { "naam": "Brandewijnsteeg" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4.489293306866967, 52.160735349871366 ], [ 4.489885390047887, 52.161090401858289 ] ] ] } },
+{ "type": "Feature", "properties": { "naam": "Korte Diefsteeg" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4.48861636055152, 52.158788701521431 ], [ 4.489283644554942, 52.159036468722071 ] ] ] } },
+{ "type": "Feature", "properties": { "naam": "Het Eiland" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4.488593015931078, 52.154141517806679 ], [ 4.488431573455133, 52.154176241615673 ], [ 4.488137728359401, 52.154254898298085 ], [ 4.48805024449023, 52.154245243148083 ], [ 4.487972844996762, 52.154460375047101 ], [ 4.488543393384988, 52.154428768917839 ], [ 4.488593015931078, 52.154141517806679 ] ] ] } },
+{ "type": "Feature", "properties": { "naam": "Lange Diefsteeg" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4.487919859529829, 52.158540707800448 ], [ 4.48861636055152, 52.158788701521431 ] ] ] } },
+{ "type": "Feature", "properties": { "naam": "Gansoord" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 4.495019433424057, 52.156500312220153 ], [ 4.496221350574013, 52.156320638998579 ], [ 4.496382436067958, 52.156303878631732 ], [ 4.496923420770357, 52.156289985446648 ], [ 4.497552611639001, 52.156249789774279 ], [ 4.498050118934729, 52.156217586769465 ], [ 4.498254858852297, 52.156210141246582 ] ] ] } }
+]
+}

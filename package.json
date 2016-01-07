@@ -1,0 +1,38 @@
+{
+  "name": "histograph-preprocessor",
+  "version": "0.0.1",
+  "description": "Conversion for Histograph",
+  "dependencies": {
+    "JSONStream": "^0.10.0",
+    "csv-parse": "^0.0.6",
+    "event-stream": "^3.2.2",
+    "fast-csv": "^0.6.0",
+    "glob": "^4.3.5",
+    "neo4j": "^2.0.0-alpha4",
+    "optimist": "~0.6.1",
+    "path": "~0.11.14",
+    "yauzl": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/erfgoed-en-locatie/historische-geocoder.git"
+  },
+  "keywords": [],
+  "author": "Rein van 't Veer <rein.vantveer@den.nl>",
+  "contributors": [
+    {
+      "name": "Bert Spaan",
+      "email": "bert@waag.org"
+    },
+    {
+      "name": "Rutger van Willigen",
+      "email": "rutger@waag.org"
+    }
+  ],
+  "license": "",
+  "engine": {}
+}
